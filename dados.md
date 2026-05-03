@@ -558,7 +558,7 @@ Foto frente e verso de um documento com foto do titular da conta
 Foto do titular com o documento ao lado do rosto (legível)
 Caso haja mais de um sócio contido no contrato social, para alteração da titularidade para CNPJ, será necessário o documento com foto de todos os sócios, bem como a foto deles com o documento próximo ao rosto.
 PDF do contrato social do CNPJ que será inserido como novo titular
-
+Motivo da troca de titularidade
 
 ----------
 
@@ -572,6 +572,7 @@ Foto frente e verso de um documento com foto do titular da conta
 Foto do titular com o documento ao lado do rosto (legível)
 Caso haja mais de um sócio contido no contrato social, para alteração da titularidade para CPF, será necessário o documento com foto de todos os sócios, bem como a foto deles com o documento próximo ao rosto.
 Foto frente e verso de um documento com foto que conste o CPF do novo titular a ser inserido
+Motivo da troca de titularidade
 
 ----------
 
@@ -582,6 +583,7 @@ Como estamos lidando com informações importantes que afetam a segurança de da
 Foto frente e verso de um documento com foto do titular da conta
 Foto do titular com o documento ao lado do rosto (legível)
 Foto frente e verso de um documento com foto contendo o novo CPF a ser adicionado.
+Motivo da troca de titularidade
 
 ----------
 
@@ -592,7 +594,7 @@ Como estamos lidando com informações importantes que afetam a segurança de da
 Foto frente e verso de um documento com foto do titular da conta
 Foto do titular com o documento ao lado do rosto (legível)
 PDF do contrato social contendo o CNPJ a ser inserido como novo titular.
-"
+Motivo da troca de titularidade
 
 ----------
 
