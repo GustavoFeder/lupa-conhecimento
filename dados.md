@@ -657,35 +657,62 @@ E-mail onde quer receber o novo reset de senha
 
 ----------
 
-# ALTERAR FORMA DE PAGAMENTO PERMANENTE
+# ALTERAR FORMA DE PAGAMENTO PARA BOLETO
 Título:  [Gerenciar Assinatura.Alterar forma de pagamento] - setor - ID 
 Prioridade: Baixa
-Deve conter:
-Alteração da forma de pagamento para boleto: 
+
+1. Confirmar com o cliente qual o vencimento ele prefere dentre as opções de 04 a 10.  
+2. Print da conversa contendo a autorização em mensagem (não pode ser áudio)  do proprietário autorizando alterar a forma de pagamento da mensalidade ciente da alteração do valor (se Premium).
+3. Print do cliente informando nome e cpf/cnpj de acordo com os dados existentes no CS (PRINT DA TELA TODA DA CONVERSA, NÃO PODE SER CORTADO SÓ A MENSAGEM)
+4. Escrever o número do telefone do contato.
+
+ MENSAGEM AO CLIENTE
+   Certo! Para seguirmos com a troca da forma de pagamento do seu sistema para boleto, devido a ser um processo sensível que envolve o pagamento da mensalidade do sistema, solicito que você envie:
+   - Nome/Razão social do titular do sistema
+   - CPF/CNPJ do titular do sistema
+   - Mensagem confirmando e autorizando a troca da forma de pagamento
+   - Informar um número para contato
+   - Confirmar a data de vencimento, dentre as opções de 04 a 10
 
 
-Confirmar com o cliente qual o vencimento ele prefere dentre as opções de 04 a 10.  
-Print da conversa contendo a autorização em mensagem (não pode ser áudio)  do proprietário autorizando alterar a forma de pagamento da mensalidade ciente da alteração do valor (se Premium).
-Print do cliente informando nome e cpf/cnpj de acordo com os dados existentes no CS (PRINT DA TELA TODA DA CONVERSA, NÃO PODE SER CORTADO SÓ A MENSAGEM)
-Escrever o número do telefone do contato.
+----------
 
+# ALTERAR FORMA DE PAGAMENTO PARA RECEBÍVEIS
+Título:  [Gerenciar Assinatura.Alterar forma de pagamento] - setor - ID 
+Prioridade: Baixa
 
-Alteração da forma de pagamento para recebíveis sistema: 
 Obs: Essa opção não está disponível para: Multiclínicas e franquias. 
 Nunca confirmar essa possibilidade ao cliente, visto que alguns não possuem os requisitos necessários para essa forma de pagamento, confirmar via chamado se é possível.
 
- 1. Print da conversa contendo a autorização em mensagem (não pode ser áudio)  do proprietário autorizando o desconto da mensalidade em recebíveis no sistema.
- 2. Print do cliente informando nome e cpf/cnpj de acordo com os dados existentes no CS (PRINT DA TELA TODA DA CONVERSA, NÃO PODE SER CORTADO SÓ A MENSAGEM)
+1. Print da conversa contendo a autorização em mensagem (não pode ser áudio)  do proprietário autorizando o desconto da mensalidade em recebíveis no sistema.
+2. Print do cliente informando nome e cpf/cnpj de acordo com os dados existentes no CS (PRINT DA TELA TODA DA CONVERSA, NÃO PODE SER CORTADO SÓ A MENSAGEM)
 3. Escrever o número do telefone do contato.
 
-Alteração da forma de pagamento para pix:
-Print da conversa contendo a autorização em mensagem (não pode ser áudio)  do proprietário autorizando alterar a forma de pagamento da mensalidade.
+   MENSAGEM AO CLIENTE
+   Certo! Para seguirmos com a troca da forma de pagamento do seu sistema para recebíveis, devido a ser um processo sensível que envolve o pagamento da mensalidade do sistema, solicito que você envie:
+   - Nome/Razão social do titular do sistema
+   - CPF/CNPJ do titular do sistema
+   - Mensagem confirmando e autorizando a troca da forma de pagamento
+   - Informar um número para contato
+  
+----------
 
+# ALTERAR FORMA DE PAGAMENTO PARA PIX
+Título:  [Gerenciar Assinatura.Alterar forma de pagamento] - setor - ID 
+Prioridade: Baixa
 
-Print do cliente informando nome e cpf/cnpj de acordo com os dados existentes no CS (PRINT DA TELA TODA DA CONVERSA, NÃO PODE SER CORTADO SÓ A MENSAGEM) Escrever o número do telefone do contato.
+1. Print da conversa contendo a autorização em mensagem (não pode ser áudio)  do proprietário autorizando alterar a forma de pagamento da mensalidade.
+2. Print do cliente informando nome e cpf/cnpj de acordo com os dados existentes no CS (PRINT DA TELA TODA DA CONVERSA, NÃO PODE SER CORTADO SÓ A MENSAGEM) Escrever o número do telefone do contato.
+3. Confirmar com o cliente qual o vencimento ele prefere dentre as opções de 04 a 28.  
 
+ MENSAGEM AO CLIENTE
+   Certo! Para seguirmos com a troca da forma de pagamento do seu sistema para PIX, devido a ser um processo sensível que envolve o pagamento da mensalidade do sistema, solicito que você envie:
+   - Nome/Razão social do titular do sistema
+   - CPF/CNPJ do titular do sistema
+   - Mensagem confirmando e autorizando a troca da forma de pagamento
+   - Informar um número para contato
+   - Confirmar a data de cobrança, dentre as opções de 04 a 28.
 
-Confirmar com o cliente qual o vencimento ele prefere dentre as opções de 04 a 28.  
 "
 
 ----------
@@ -698,6 +725,12 @@ Print da solicitação do cliente solicitando alteração, informando nome e cpf
 Escrever o número do telefone do contato.
 OBS: Caso a forma de pagamento do cliente seja boleto as datas disponíveis para alteração são entre os dias: 04 à 10.
 "
+ MENSAGEM AO CLIENTE
+   Certo! Para seguirmos com a troca da data de cobrança do seu sistema, devido a ser um processo sensível que envolve o pagamento da mensalidade do sistema, solicito que você envie:
+   - Nome/Razão social do titular do sistema
+   - CPF/CNPJ do titular do sistema
+   - Mensagem confirmando e autorizando a troca da data de cobrança
+   - Informar um número para contato
 
 ----------
 
