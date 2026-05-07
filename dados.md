@@ -724,14 +724,15 @@ Deve conter:
 Print da solicitação do cliente solicitando alteração, informando nome e cpf/cnpj de acordo com os dados existentes no CS.
 Escrever o número do telefone do contato.
 OBS: Caso a forma de pagamento do cliente seja boleto as datas disponíveis para alteração são entre os dias: 04 à 10.
-"
+
+
  MENSAGEM AO CLIENTE
    Certo! Para seguirmos com a troca da data de cobrança do seu sistema, devido a ser um processo sensível que envolve o pagamento da mensalidade do sistema, solicito que você envie:
    - Nome/Razão social do titular do sistema
    - CPF/CNPJ do titular do sistema
    - Mensagem confirmando e autorizando a troca da data de cobrança
    - Informar um número para contato
-
+"
 ----------
 
 # APLICAR PROMOÇÃO
